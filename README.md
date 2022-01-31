@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Shinpi-Tekita
-- I make stuff lol
+👋 Hi, I’m Shinpi
+✈ I am interested in writing and code.
+🚦 I mostly code in javascript.
