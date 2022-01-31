@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Shinpi-Tekita
+- I make stuff lol
