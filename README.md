@@ -2,16 +2,16 @@
 
 # About Me
 
-### I am the developer of the discord bot **Gentleman** [invite](https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands)
+### I am the developer of the discord bot [**Gentleman**](https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands)
 
-### I Am Also Looking for helpers for my bot [Github](https://github.com/Shinpi-Tekita/Shinpi-Stuff/tree/main/Gentleman)
+### I Am Also Looking for helpers for my bot [**Gentleman**](https://github.com/Shinpi-Tekita/Shinpi-Stuff/tree/main/Gentleman)
 
 ### Wanna Join My Discord Server? https://discord.gg/j3YamACwPu
 
 ### I Like To Use 
 ![HTML5](https://img.icons8.com/color/30/html-5.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Github](https://img.icons8.com/material-outlined/30/github.png)
 
-Contact me on <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png' width='14'> [Discord](https://discord.gg/j3YamACwPu)
+### Contact me on <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png' width='14'> [Discord](https://discord.gg/j3YamACwPu)
 
 ## Github Statistics
 
