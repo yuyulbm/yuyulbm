@@ -12,9 +12,7 @@ Contact me on <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_i
 
 ## Github Statistics
 
-<a style="text-decoration: none;" href="https://discord.com/users/815480311285547079">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=AADHU2005&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=Shinpi-Tekita&show_icons=true&theme=dracula&hide=[%22issues%22])
 
 ![](https://github-profile-trophy.vercel.app/?username=Shinpi-Tekita&theme=dracula)
 
