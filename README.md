@@ -13,7 +13,7 @@
 
 ### Contact me on <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png' width='14'> [Discord](https://discord.gg/j3YamACwPu)
 
-## Github Statistics
+# Github Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Shinpi-Tekita&show_icons=true&theme=dracula&hide=[%22issues%22])
 
