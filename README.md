@@ -4,8 +4,6 @@
 
 ### I am the developer of the discord bot [**Gentleman**](https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands)
 
-### I Am Also Looking for helpers for my bot [**Gentleman**](https://github.com/Shinpi-Tekita/Shinpi-Stuff/tree/main/Gentleman)
-
 ### Wanna Join My Discord Server? https://discord.gg/j3YamACwPu
 
 ### I Like To Use 
