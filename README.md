@@ -1,22 +1,41 @@
-<h3 align="center">Hey there, I'm <a>Shinpi</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<div align="center">
+  <p>
+    <a href="https://discord.com/users/893211748767768606">
+      <img title="p-picture" src="https://i.imgur.com/lGLKiVd.png">
+    </a>
+    <br>
+    <a href="https://github.com/Shinpi-Tekita">
+      <img title="p-views" src="https://komarev.com/ghpvc/?username=Shinpi&color=347deb&style=flat-square">
+    </a>
+    <a href="https://discord.gg/j3YamACwPu">
+      <img title="d-server" src="https://img.shields.io/discord/1010673042608902155?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
+    </a>
+  </p>
 
-# About Me
-
-### I am the developer of the discord bot [**Gentleman**](https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands)
-
-### Wanna Join My Discord Server? https://discord.gg/j3YamACwPu
-
-### I Like To Use 
-![HTML5](https://img.icons8.com/color/30/html-5.png) ![JavaScript](https://img.icons8.com/color/30/javascript.png) ![NodeJS](https://img.icons8.com/color/30/nodejs.png) ![Github](https://img.icons8.com/material-outlined/30/github.png)
-
-### Contact me on <img src='https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png' width='14'> [Discord](https://discord.gg/j3YamACwPu)
-
-# Github Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Shinpi-Tekita&show_icons=true&theme=dracula&hide=[%22issues%22])
-
-![](https://github-profile-trophy.vercel.app/?username=Shinpi-Tekita&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Shinpi-Tekita&show_icons=true&theme=dracula&layout=compact)
-
-note: most of my repositories are private the stats are only for my public ones.
+  <h4>Hi, I'm Shinpi! Great to see you, I'm a developer from America!</h4>
+  
+  ----
+  
+  <h3>My projects</h4>
+  <p>
+    <a href="https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands">
+      <img class="bot" title="Gentleman The Cat Bot" src="https://i.ibb.co/qWKKFqZ/image-5.png">
+    </a>
+    <a href="https://shinpitekita.repl.co/home">
+      <img class="website" title="shinpi's website" src="https://i.ibb.co/F8tQHDt/image-1.png">
+    </a>
+  </p>
+  
+  ----
+  
+  <h3>
+    Tools / Apps that I use
+    <br><br>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
+  </h3>
