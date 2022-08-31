@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://discord.com/users/893211748767768606">
-      <img title="p-picture" src="https://i.imgur.com/lGLKiVd.png">
+      <img title="p-picture" src="https://shinpitekita.repl.co/api/circle?url=https://i.imgur.com/lGLKiVd.png">
     </a>
     <br>
     <a href="https://github.com/Shinpi-Tekita">
@@ -19,10 +19,10 @@
   <h3>My projects</h4>
   <p>
     <a href="https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands">
-      <img class="bot" title="Gentleman The Cat Bot" src="https://i.ibb.co/qWKKFqZ/image-5.png">
+      <img class="bot" title="Gentleman The Cat Bot" src="https://shinpitekita.repl.co/api/circle?url=https://i.imgur.com/lGLKiVd.png">
     </a>
     <a href="https://shinpitekita.repl.co/home">
-      <img class="website" title="shinpi's website" src="https://i.ibb.co/F8tQHDt/image-1.png">
+      <img class="website" title="shinpi's website" src="https://shinpitekita.repl.co/api/circle?url=https://i.imgur.com/lGLKiVd.png">
     </a>
   </p>
   
