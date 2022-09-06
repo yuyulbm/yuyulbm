@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://discord.com/users/893211748767768606">
+    <a href="https://discord.com/users/748597084134834186">
       <img title="p-picture" src="https://shinpitekita.repl.co/api/circle?url=https://i.imgur.com/lGLKiVd.png">
     </a>
     <br>
