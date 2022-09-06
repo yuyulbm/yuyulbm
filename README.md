@@ -8,7 +8,7 @@
       <img title="p-views" src="https://komarev.com/ghpvc/?username=Shinpi&color=347deb&style=flat-square">
     </a>
     <a href="https://discord.gg/j3YamACwPu">
-      <img title="d-server" src="https://img.shields.io/discord/1010673042608902155?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
+      <img title="d-server" src="https://img.shields.io/discord/760641617136320522?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
     </a>
   </p>
 
