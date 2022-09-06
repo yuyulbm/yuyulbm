@@ -19,7 +19,7 @@
   <h3>My projects</h4>
   <p>
     <a href="https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands">
-      <img class="bot" title="Gentleman The Cat Bot" src="https://shinpitekita.repl.co/api/circle?url=https://i.imgur.com/lGLKiVd.png">
+      <img class="bot" title="Gentleman The Cat Bot" src="https://shinpitekita.repl.co/api/circle?url=https://cdn.discordapp.com/avatars/870413726711435297/9b87fb18882d84c79140be8bc15d3256.webp">
     </a>
     <a href="https://shinpitekita.repl.co/home">
       <img class="website" title="shinpi's website" src="https://shinpitekita.repl.co/api/circle?url=https://i.imgur.com/lGLKiVd.png">
