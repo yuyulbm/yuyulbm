@@ -39,3 +39,9 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   </h3>
+
+  <p>
+  <a href="https://discord.gg/j3YamACwPu" target="_blank"> 
+    <img src="https://discord.com/api/guilds/760641617136320522/widget.png?style=banner2" alt="Discord Server">
+  </a>
+</p>
