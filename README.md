@@ -1,7 +1,6 @@
 <div align="center">
   <p>
-    <a style:"border-radius: 50%;
-  max-width: 75%;" href="https://discord.com/users/748597084134834186">
+    <a style:"border-radius: 50%;" href="https://discord.com/users/748597084134834186">
       <img title="p-picture" src="https://avatars.githubusercontent.com/u/82416698?v=4">
     </a>
     <br>
@@ -19,12 +18,10 @@
   
   <h3>My projects</h4>
   <p>
-    <a style:"border-radius: 50%;
-  max-width: 75%;" href="https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands">
+    <a style:"border-radius: 50%;" href="https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands">
       <img title="Gentleman The Cat Bot" src="https://avatars.githubusercontent.com/u/82416698?v=4">
     </a>
-    <a style:"border-radius: 50%;
-  max-width: 75%;" href="https://shinpitekita.is-a.dev/home">
+    <a style:"border-radius: 50%;" href="https://shinpitekita.is-a.dev/home">
       <img title="LonelyBall Media" src="https://i.imgur.com/lGLKiVd.png">
     </a>
   </p>
