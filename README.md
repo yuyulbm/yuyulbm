@@ -1,7 +1,7 @@
 <div align="center">
   <p>
-    <a href="https://discord.com/users/914975129417691176">
-      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/914975129417691176.png">
+    <a href="https://discord.com/users/748597084134834186">
+      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
     <a/>
       </br>
     <a href="https://github.com/Shinpi-Tekita">
