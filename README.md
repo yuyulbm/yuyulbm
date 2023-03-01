@@ -3,7 +3,6 @@
     <a href="https://discord.com/users/748597084134834186">
       <img src="https://lanyard-profile-readme.vercel.app/api/748597084134834186?idleMessage=Making%20Stuff&borderRadius=8px" />
     </a>
-    <br>
     <a href="https://github.com/Shinpi-Tekita">
       <img title="p-views" src="https://komarev.com/ghpvc/?username=Shinpi&color=347deb&style=flat-square">
     </a>
@@ -39,6 +38,8 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
   </h3>
+  
+  ----
 
   <p>
   <a href="https://discord.gg/j3YamACwPu" target="_blank"> 
@@ -46,7 +47,7 @@
   </a>
 </p>
   
-  <p>A snake eating my contribution graph.</p>
+  ----
+  
+  <h3>A snake eating my contribution graph.</h3>
   <img src="https://github.com/s3mant/s3mant/blob/snake/github-contribution-grid-snake.svg" alt="Snake Gif">
-
- 
