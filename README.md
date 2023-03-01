@@ -1,6 +1,8 @@
 <div align="center">
   <p>
-   <a href="https://discord.com/users/748597084134834186"><img src="https://lanyard-profile-readme.vercel.app/api/748597084134834186?idleMessage=Probably%20Watching%20Anime&borderRadius=8px" /></a>
+   <a href="https://discord.com/users/748597084134834186">
+      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
+    <a/>
       </br>
     <a href="https://github.com/Shinpi-Tekita">
       <img title="p-views" src="https://komarev.com/ghpvc/?username=Shinpi&color=347deb&style=flat-square">
