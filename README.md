@@ -51,4 +51,4 @@
   ----
   
   <h3>A snake eating my contribution graph.</h3>
-  <img src="https://github.com/s3mant/s3mant/blob/snake/github-contribution-grid-snake.svg" alt="Snake Gif">
+  <img src="https://github.com/loneorangeball/loneorangeball/blob/snake/github-contribution-grid-snake.svg" alt="Snake Gif">
