@@ -45,3 +45,8 @@
     <img src="https://discord.com/api/guilds/760641617136320522/widget.png?style=banner2" alt="Discord Server">
   </a>
 </p>
+  
+  <p>A snake eating my contribution graph.</p>
+  <img src="https://github.com/s3mant/s3mant/blob/snake/github-contribution-grid-snake.svg" alt="Snake Gif">
+
+ 
