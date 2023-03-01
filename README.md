@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://discord.com/users/748597084134834186">
-      <img title="p-picture" src="https://loneorangeball.is-a.dev/api/circle?image=https://avatars.githubusercontent.com/u/82416698?v=4">
+      <img src="https://lanyard-profile-readme.vercel.app/api/748597084134834186?idleMessage=Making%20Stuff&borderRadius=8px" />
     </a>
     <br>
     <a href="https://github.com/Shinpi-Tekita">
