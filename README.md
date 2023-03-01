@@ -50,4 +50,4 @@
   
   ----
   
-    <img src="https://github.com/loneorangeball/loneorangeball/blob/snake/github-contribution-grid-snake.svg" alt="Snake Gif">
+![snake gif](https://github.com/loneorangeball/loneorangeball/blob/output/github-contribution-grid-snake.gif)
