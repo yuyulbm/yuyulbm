@@ -1,8 +1,9 @@
 <div align="center">
   <p>
-   <a href="https://discord.com/users/445073800850046977">
-     <img title="Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
-   <a />
+    <a href="https://discord.com/users/914975129417691176">
+      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/914975129417691176.png">
+    <a/>
+      </br>
     <a href="https://github.com/Shinpi-Tekita">
       <img title="p-views" src="https://komarev.com/ghpvc/?username=Shinpi&color=347deb&style=flat-square">
     </a>
