@@ -4,8 +4,8 @@
       <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
     <a/>
       </br>
-    <a href="https://github.com/Shinpi-Tekita">
-      <img title="p-views" src="https://komarev.com/ghpvc/?username=Shinpi&color=347deb&style=flat-square">
+    <a href="https://github.com/loneorangeball">
+      <img title="p-views" src="https://komarev.com/ghpvc/?username=loneorangeball&color=347deb&style=flat-square">
     </a>
     <a href="https://discord.gg/j3YamACwPu">
       <img title="d-server" src="https://img.shields.io/discord/760641617136320522?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
