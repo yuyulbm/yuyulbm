@@ -4,25 +4,25 @@
       <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
     <a/>
       </br>
-    <a href="https://github.com/loneorangeball">
-      <img title="p-views" src="https://komarev.com/ghpvc/?username=loneorangeball&color=347deb&style=flat-square">
+    <a href="https://github.com/yuyulbm">
+      <img title="p-views" src="https://komarev.com/ghpvc/?username=yuyulbm&color=347deb&style=flat-square">
     </a>
     <a href="https://discord.gg/j3YamACwPu">
       <img title="d-server" src="https://img.shields.io/discord/760641617136320522?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
     </a>
   </p>
 
-  <h4>Hi, I'm Shinpi! Great to see you, I'm a developer from America!</h4>
+  <h4>Hi, I'm Yuyu! Great to see you, I'm a developer from America!</h4>
   
   ----
   
   <h3>My projects</h4>
   <p>
-    <a href="https://discord.com/oauth2/authorize?client_id=870413726711435297&permissions=1103203134710&scope=bot%20applications.commands">
-      <img title="Gentleman The Cat Bot" src="https://loneorangeball.is-a.dev/api/circle?image=https://avatars.githubusercontent.com/u/82416698?v=4">
+    <a href="https://yuyulbm.is-a.dev/home">
+      <img title="Gentleman Discord Bot" src="https://loneorangeball.is-a.dev/api/circle?image=https://avatars.githubusercontent.com/u/82416698?v=4">
     </a>
-    <a href="https://shinpitekita.is-a.dev/home">
-      <img title="LonelyBall Media" src="https://loneorangeball.is-a.dev/api/circle?image=https://i.imgur.com/lGLKiVd.png">
+    <a href="https://lonelyballmedia.com/home">
+      <img title="LonelyBall Media" src="https://loneorangeball.is-a.dev/api/circle?image=https://avatars.githubusercontent.com/u/82416698?v=4">
     </a>
   </p>
   
@@ -59,4 +59,4 @@
   </picture>
 
   
-![snake gif](https://github.com/loneorangeball/loneorangeball/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yuyulbm/yuyulbm/blob/output/github-contribution-grid-snake.gif)
