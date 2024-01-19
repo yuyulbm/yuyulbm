@@ -18,12 +18,8 @@
   
   <h3>My projects</h4>
   <p>
-    <a href="https://yuyulbm.is-a.dev/home">
-      <img title="Gentleman Discord Bot" src="https://loneorangeball.is-a.dev/api/circle?image=https://avatars.githubusercontent.com/u/82416698?v=4">
-    </a>
-    <a href="https://lonelyballmedia.com/home">
-      <img title="LonelyBall Media" src="https://loneorangeball.is-a.dev/api/circle?image=https://avatars.githubusercontent.com/u/82416698?v=4">
-    </a>
+    <a href="https://gentleman-production.up.railway.app/home">Gentleman</a>
+    <a href="https://novels-production.up.railway.app/home">GildNovel</a>
   </p>
   
   ----
