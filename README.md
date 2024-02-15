@@ -1,14 +1,6 @@
 <div align="center">
-    <h3>Hi, I'm Yuyu! Great to see you, I'm a developer from America!</h3> 
-  <p>
-       <a href="https://discord.com/users/748597084134834186">
-      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
-    <a/>
-    </br>
-     <a href="https://discord.gg/j3YamACwPu" target="_blank"> 
-    <img src="https://discord.com/api/guilds/760641617136320522/widget.png?style=banner2" alt="Discord Server">
-  </a>  
-  </p>  
+    <h2>Hi, I'm Yuyu! Great to see you, I'm a developer from America!</h2> 
+    <p><a href="https://discord.com/users/748597084134834186"><img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png"><a/></p>  
         
   ----
   
