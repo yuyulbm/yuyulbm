@@ -2,21 +2,15 @@
     <h3>Hi, I'm Yuyu! Great to see you, I'm a developer from America!</h3> 
 <a href='https://ko-fi.com/H2H6JPJJV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   <p>
-    <a href="https://github.com/yuyulbm">
-      <img title="p-views" src="https://komarev.com/ghpvc/?username=yuyulbm&color=347deb&style=flat-square">
-    </a>
-    <a href="https://discord.gg/j3YamACwPu">
-      <img title="d-server" src="https://img.shields.io/discord/760641617136320522?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
-    </a>
+       <a href="https://discord.com/users/748597084134834186">
+      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
+    <a/>
     </br>
      <a href="https://discord.gg/j3YamACwPu" target="_blank"> 
     <img src="https://discord.com/api/guilds/760641617136320522/widget.png?style=banner2" alt="Discord Server">
-  </a>
-    </br>
-   <a href="https://discord.com/users/748597084134834186">
-      <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
-    <a/>
+  </a>  
   </p>  
+        
   ----
   
   <h3>My projects</h4>
