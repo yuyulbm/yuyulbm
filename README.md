@@ -9,12 +9,13 @@
       <img title="d-server" src="https://img.shields.io/discord/760641617136320522?label=Discord+Community&logo=discord&logoColor=fafafa&color=347deb&style=flat-square">
     </a>
     </br>
+     <a href="https://discord.gg/j3YamACwPu" target="_blank"> 
+    <img src="https://discord.com/api/guilds/760641617136320522/widget.png?style=banner2" alt="Discord Server">
+  </a>
+    </br>
    <a href="https://discord.com/users/748597084134834186">
       <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
     <a/>
-      <a href="https://discord.gg/j3YamACwPu" target="_blank"> 
-    <img src="https://discord.com/api/guilds/760641617136320522/widget.png?style=banner2" alt="Discord Server">
-  </a>
   </p>  
   ----
   
