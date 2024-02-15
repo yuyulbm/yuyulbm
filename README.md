@@ -1,6 +1,5 @@
 <div align="center">
     <h3>Hi, I'm Yuyu! Great to see you, I'm a developer from America!</h3> 
-<a href='https://ko-fi.com/H2H6JPJJV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   <p>
        <a href="https://discord.com/users/748597084134834186">
       <img title="Discord" src="https://discord.c99.nl/widget/theme-3/748597084134834186.png">
